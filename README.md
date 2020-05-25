@@ -1,0 +1,2 @@
+# ick
+Interakcja człowiek-komputer
